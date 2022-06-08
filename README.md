@@ -1,6 +1,6 @@
 
 <img align="right" height="590em" src="https://raw.githubusercontent.com/gist/LiL-14/392987c90d6040c30d5246219ba5e586/raw/2fd288ded4353b9b2289be76adbdedb8de0a3470/githubcard.svg"/>
-<h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, Eu Sou o Lucas</h1>
+<h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="20px">, Eu Sou o Lucas</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=LiL-14&color=blue" alt="Profile views" /> </p>
 
 - 🔥 Junior Web Developer
