@@ -43,5 +43,8 @@
 <a href="https://www.linkedin.com/in/lucas-ballonje/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-Lucas-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
+<a href="https://www.notion.so/54f83f561ecf4d26927d7edb64940d21?v=47fa2506c3c34bdaadeab3f045f33c96" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-Lucas-05122A?style=flat&logo=notion" alt="notion"/>
+</a>
   
 </p>
